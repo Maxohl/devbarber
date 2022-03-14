@@ -14,3 +14,6 @@ If you would like to download the code and try it for yourself:
 5. Open another terminal, go to app folder and run yarn android
 
 Webservice was made by a third party, because of that some functionalities are disabled.
+
+
+![devbarber](https://user-images.githubusercontent.com/98130601/158176925-ec2198a4-0855-483b-a62f-4c73c0d3a0a4.gif)
