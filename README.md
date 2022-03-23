@@ -1,6 +1,8 @@
 # devbarber
 react-native project for learning purposes
 
+Original : https://www.youtube.com/watch?v=kk_pGWBOkc4
+
 #Guide to devbarber
 
 ## Instructions
